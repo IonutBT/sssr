@@ -29,4 +29,4 @@ async def gen(ctx):
 
     print("{} Typed yg!gen".format(userName))
 
-bot.run("NDc2MzU4OTA3MzA5MDY0MTky.DkscPw.w34WVpxIsp_nvpZh8rFe3tyRO1E")
+bot.run("TOKEN")
